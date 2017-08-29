@@ -1,8 +1,9 @@
 ---
 layout: post
-title: First post!
+title: Mi primer post
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [bienvenida, Personal]
 ---
 
-This is my first post, how exciting!
+##Bienvenido a mi primer post es un orgullo ver que esto funciona correctamente.##
+Ahora es el momento de la verdad donde vamos a ver **tambores** lo nunca visto jejejeje.
