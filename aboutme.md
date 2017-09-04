@@ -9,17 +9,18 @@ subtitle: “Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompa�
 
 ### Una píldora ...
 
-<i class="fa fa-address-card-o fa-2x"></i> Para mi es muy difícil describirme a mi mismo , otorgarme adjetivos y calificativos, pienso que las personas sabrán quien soy, cuando me conozcan , cuando trabajen conmigo , cuando compartan conmigo, en esencia cuando interactuemos y la opinión de esa persona no tiene porque ser la misma que de otra, y aún así yo seguiré siendo el mismo individuo, además estoy en un constante aprendizaje de la vida, y de todo lo que la rodea, mis opiniones hoy pueden ser diferentes mañana.
+<i class="fa fa-address-card-o fa-2x"></i>
+Para mi es muy difícil describirme a mi mismo , otorgarme adjetivos y calificativos, pienso que las personas sabrán quien soy, cuando me conozcan , cuando trabajen conmigo , cuando compartan conmigo, en esencia cuando interactuemos y la opinión de esa persona no tiene porque ser la misma que de otra, y aún así yo seguiré siendo el mismo individuo, además estoy en un constante aprendizaje de la vida, y de todo lo que la rodea, mis opiniones hoy pueden ser diferentes mañana.
 
 Lo que si puedo hacer es transmitiros lo que intento hacer cada día o cuando tengo oportunidad.
 
-<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>- Mejorar como persona en todos los aspectos.
-<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>- Intentar ser un mejor habitante para este planeta y para los que viven en el.
-<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>- Aprender a respetar a los demás tal y como son.
-<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>- Ser un buen esposo y padre.
+<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i> - Mejorar como persona en todos los aspectos.
+<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i> - Intentar ser un mejor habitante para este planeta y para los que viven en el.
+<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i> - Aprender a respetar a los demás tal y como son.
+<i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i> - Ser un buen esposo y padre.
 
-###Un poco mas...
-
+### Un poco mas...
+<i class="fa fa-address-card-o fa-2x"></i>
 <i class="fa fa-users fa-2x"></i>
 
 Además de intentar hacer todo esto, soy un esclavo de la sociedad moderna, inmerso en una rutina diaria que a duras penas moldeamos a nuestro antojo, siendo arrastrados por las corrientes de pensamiento y manipulados por los medios, al antojo de unos pocos que aglutinan las riquezas del planeta, destruyéndolo día a día y dejando cada vez un futuro mas incierto.
@@ -34,7 +35,7 @@ Mis conocimientos de electrónica e informática me permiten ver la tecnología 
 
 Como personas curiosas que somos, estamos en continuo aprendizaje y es para mí, un reto al que me enfrento día a día el aprender como funciona todo lo que me rodea,  y como ayudar a las personas creando soluciones para mejorar su vida.
 
-###El blog
+### El blog
 
 <i class="fa fa-bath fa-2x"></i>
 
