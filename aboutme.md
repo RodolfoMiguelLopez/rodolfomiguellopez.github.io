@@ -9,7 +9,7 @@ subtitle: “Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompa�
 
 ### Una píldora ...
 
-<i class="fa fa-address-card-o fa-2x"></i>
+:shipit:
 Para mi es muy difícil describirme a mi mismo , otorgarme adjetivos y calificativos, pienso que las personas sabrán quien soy, cuando me conozcan , cuando trabajen conmigo , cuando compartan conmigo, en esencia cuando interactuemos y la opinión de esa persona no tiene porque ser la misma que de otra, y aún así yo seguiré siendo el mismo individuo, además estoy en un constante aprendizaje de la vida, y de todo lo que la rodea, mis opiniones hoy pueden ser diferentes mañana.
 
 Lo que si puedo hacer es transmitiros lo que intento hacer cada día o cuando tengo oportunidad.
