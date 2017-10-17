@@ -2,7 +2,7 @@
 layout: post
 title: Como proteger tus contraseñas y no morir en el intento
 subtitle: Con 5 BriConsejos
-image: /img/como-proteger-inicio
+image: /img/como-proteger-inicio.jpeg
 tags: [Contraseñas]
 ---
 
@@ -16,7 +16,7 @@ Lo primero es tomar conciencia de que una contraseña frágil o débil puede ser
 
 El porque puede ser un problema para ti , para tu familia o para tu empresa es fácil de explicar , los eslabones de una cadena siempre se rompen por el eslabón más débil y en este caso los usuarios y sus contraseñas son el eslabón más débil de la cadena. Si consiguen de alguna forma hacerse con una contraseña de un servicio por ejemplo con nuestro correo electrónico, pueden resetear contraseñas de otros servicios, suplantar nuestra identidad, intentar engañar a nuestros contactos y un largo etc….. 
 
-##1º BriConsejo [No Reutilizar Contraseñas]
+## 1º BriConsejo [No Reutilizar Contraseñas]
 
 A día de hoy los CiberDelincuentes saben perfectamente que los usuarios reutilizan sus contraseñas, esto se convierte en un problema cuando por ejemplo un servicio es comprometido “algunos de los servicios comprometidos más famosos : Linkedin, Dropbox, Adobe “ en esta página podéis ver muchos más seguro que os suena más de uno <https://haveibeenpwned.com/>. Normalmente cuando una página web es comprometida lo que se consigue es una combinación de [Correo Electrónico:Contraseña] en consecuencia los delincuentes van a probar esta combinación en todos los servicios para ver si hay suerte y has reutilizado la misma combinación.
 
@@ -24,7 +24,7 @@ A día de hoy los CiberDelincuentes saben perfectamente que los usuarios reutili
 
 En esta captura podemos ver un listado de correo electrónico /contraseñas de un servicio comprometido, publicado de forma pública en el servicio pastebin.
 
-##2º BriConsejo [Estar Informado]
+## 2º BriConsejo [Estar Informado]
 
 Lo primero que deberías de hacer es estar al tanto de cuando tu contraseña es comprometida o mejor dicho tu cuenta de correo electrónico y contraseña que como hemos visto suelen ir de la mano.
 
@@ -48,7 +48,7 @@ Si disponéis de un dominio propio también podéis hacer uso de este servicio y
 
 Una vez relleno los datos que os solicita os informará de las maneras que hay de validar la propiedad de ese dominio.
 
-##3º BriConsejo [Crear Una Contraseña Segura]
+## 3º BriConsejo [Crear Una Contraseña Segura]
 
 Lo siguiente que tenemos que crear es una contraseña segura ¿ y esto como se hace ? pues la clave aquí es la longitud no me seáis malpensados en cm no, en número de caracteres,  crear una contraseña complicada agrega complejidad y siempre será más segura, pero también evita nuestra retención de la misma , veamos un ejemplo.
 
@@ -61,6 +61,7 @@ Las dos cadenas de caracteres tienen la misma longitud 37 caracteres , crees que
 Podemos comprobar nuestra contraseña con los siguientes servicios y comprobar que tal es la contraseña que usamos y de paso ver en cuanto tiempo podrían conseguir descifrarla ( muy orientativo ):
 
 ***
+
 <https://password.kaspersky.com/es/>
 
 <https://howsecureismypassword.net/>
@@ -68,6 +69,7 @@ Podemos comprobar nuestra contraseña con los siguientes servicios y comprobar q
 <https://www.betterbuys.com/estimating-password-cracking-times/>
 
 <http://www.passwordmeter.com/>
+
 ***
 
 A día de hoy cualquier cadena de más de 16 caracteres sin apenas caracteres extraños algún número sin símbolos es suficiente para proteger nuestros datos, por supuesto según la criticidad de lo que vayas a proteger se debería de acortar el tiempo de renovación siendo el mínimo 6 meses y el máximo 3 años.
@@ -83,23 +85,25 @@ Si queréis ver la entrevista donde Snowden da sus consejos sobre contraseñas e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzGzB-yYKcc" frameborder="0" allowfullscreen></iframe>
 
-##4º BriConsejo [Guadar Nuestras Contraseñas]
+## 4º BriConsejo [Guadar Nuestras Contraseñas]
 
 De alguna manera tenemos que guardar nuestras contraseñas , si creamos contraseñas seguras y una para cada servicio al final tendremos un montón de claves , por lo que tenemos que tener un sitio seguro donde almacenar todas estas contraseñas , para ello podemos usar cualquiera de los gestores de contraseñas que existen en el mercado, cada uno tiene sus pros y su contras , unos online otros offline y la mayoría dan un buen servicio , solo es cuestión de gustos, yo por ejemplo uso LastPass pero para ayudarte te dejo algunas revisiones de sitios especializados donde hacen un repaso a estos servicios.
 
 ***
+
 <https://www.pcmag.com/article2/0,2817,2407168,00.asp>
 
 <https://www.tomsguide.com/us/best-password-managers,review-3785.html>
 
 <https://www.pixel4brain.com/programas-gestionar-contrasenas/>
+
 ***
 
 Lo que no hay que hacer nunca es apuntar tus contraseñas en una libreta o pos-it y menos si el sitio donde lo dejas no es seguro.
 
 Puede que tengas la tentación de usar los gestores de contraseñas de los navegadores , no te lo recomiendo normalmente por muy bien que funcionen están diseñados para simplificar la vida al usuario pero no estamos seguros de como funciona y además no tienen las ventajas que tienen los gestores de contraseñas, además de ser el primer objetivo de los delincuentes.
 
-##5º BriConsejo USAR LA VERIFICACIÓN EN DOS PASOS
+## 5º BriConsejo USAR LA VERIFICACIÓN EN DOS PASOS
 
 Llegado a este momento estamos ya bastante seguros pero para lo más valientes vamos a darle un toque extra de seguridad a nuestras contraseñas, añadiendo otra capa más de seguridad se llama **Autenticación de doble factor o 2FA**. 
 
@@ -128,6 +132,7 @@ De los distintos sistemas de verificación 2FA el más utilizado y sencillo de u
 Este tema es como los Gestores de contraseñas escoge con el que estés más cómodo. Yo personalmente uso Google Authenticator pero Authy también lo he probado y es más cómodo a la hora de trasladar cuentas de un dispositivo a otro en caso de pérdida o avería.
 
 El proceso para activar la autenticación en dos factores depende del servicio pero suelen ser muy parecidos aquí te dejo dos enlaces para activar esta funcionalidad en Google y Linkedin.
+
 ***
 
 * <https://support.google.com/accounts/answer/185839?hl=es>
@@ -135,7 +140,7 @@ El proceso para activar la autenticación en dos factores depende del servicio p
 
 ***
 
-##Conclusión Final
+## Conclusión Final
 
 Por supuesto estas no son las únicas medidas que tenemos que tener en cuenta a la hora de usar contraseñas pero por lo menos, estaremos mas protegidos, pero no estemos equivocados, **la seguridad al 100% no existe** pero vamos a ponerlo un poco más difícil ¿no?
 
