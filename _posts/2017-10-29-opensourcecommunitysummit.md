@@ -2,8 +2,8 @@
 layout: post
 title: OpenSourceCommunitySummit 2017
 subtitle: El Evento de las Comunidades
-image: /img/como-proteger-inicio.jpeg
-tags: [OSCS][Comunidades][Charlas][NMap][OSINT]
+image: /img/logo_oscs_2017.jpeg
+tags: [OSCS]
 ---
 
 El pasado **[ 21 de octubre ]** en [Campus Madrid](https://www.campus.co/) tuvo lugar un encuentro legendario entre 14 de las comunidades más Interesantes de la ciudad y alrededores. 
