@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenSourceCommunitySummit 2017
+title: Open Source Community Summit 2017
 subtitle: El Evento de las Comunidades
 image: /img/logo_oscs_2017.jpeg
 tags: [OSCS]
