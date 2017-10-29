@@ -2,11 +2,9 @@
 layout: post
 title: OpenSourceCommunitySummit 2017
 subtitle: El Evento de las Comunidades
-image: /img/logo_oscs_2017
+image: /img/logo_oscs_2017.jpg
 tags: [OSCS][Comunidades][Charlas][NMap][OSINT]
 ---
-
-![Logo OSCS](https://rodolfolopez.es/img/logo_oscs_2017.png)
 
 El pasado **[ 21 de octubre ]** en [Campus Madrid](https://www.campus.co/) tuvo lugar un encuentro legendario entre 14 de las comunidades más Interesantes de la ciudad y alrededores. 
 
@@ -22,7 +20,7 @@ Además de los chic@s de OSW estas son las comunidades que participarón:
 
 * **Apiaddicts, Codenares, Adalab, Open Source Design, RLadiesMAD, Makespace Madrid, HaskellMAD, Planet Linux Cafe, HackMadrid%27, GDG Madrid, Women Techmakers Madrid, GDG Huelva, PillarsJS, OSW.** 
 
-Entre todas las actividades que hubo hubo [HackMadrid%27](https://www.meetup.com/es-ES/HackMadrid-27/) Organizó 3 de ellas:
+### Entre todas las actividades que hubo hubo [HackMadrid%27](https://www.meetup.com/es-ES/HackMadrid-27/) Organizó 3 de ellas:
 
 * La primera charla fue la Martina Matarí [@da3n3rys](https://twitter.com/da3n3rys) que nos dejó una introducción a lo que es  OSINT y de como consciente o inconscientemente somos culpables de que nuestros datos se expongan en la red, además de mostrarnos un par de aplicaciones bastantes interesantes.
 
@@ -46,8 +44,8 @@ Entre todas las actividades que hubo hubo [HackMadrid%27](https://www.meetup.com
 
 Invito a todos los que estéis interesados en aprender o en mostrar vuestros conocimientos o charlas a participar en [HackMadrid%27](https://www.meetup.com/es-ES/HackMadrid-27/) y en venir a hacernos una visita en cualquiera de los talleres que vamos organizando. Si queréis estar al tanto de las novedades podéis apuntaros al grupo de **Meetup**. También podéis manteneros informados en [CronSec.com](https://cronsec.com) donde pondremos todos los eventos relacionados con la Seguridad Informática.
 
-###[CronSec.com](https://cronsec.com)
-###[HackMadrid%27](https://www.meetup.com/es-ES/HackMadrid-27/)
+### [CronSec.com](https://cronsec.com)
+### [HackMadrid%27](https://www.meetup.com/es-ES/HackMadrid-27/)
 
 Saludos  a todos los que participaron y espero volver a veros de nuevo con nosotros.
 
