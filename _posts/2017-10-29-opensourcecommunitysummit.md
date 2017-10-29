@@ -2,7 +2,7 @@
 layout: post
 title: OpenSourceCommunitySummit 2017
 subtitle: El Evento de las Comunidades
-image: /img/logo_oscs_2017.jpg
+image: /img/logo_oscs_2017.jpeg
 tags: [OSCS][Comunidades][Charlas][NMap][OSINT]
 ---
 
