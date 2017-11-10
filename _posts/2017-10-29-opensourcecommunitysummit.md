@@ -26,7 +26,7 @@ Además de los chic@s de OSW estas son las comunidades que participarón:
 
 ![Charla_OSINT_2017](https://rodolfolopez.es/img/Charla_OSINT_2017.jpg)
 
-* Podéis descargar el material de la charla en el siguiente enlace: [Charla_HackMadrid%27_21OCT17_OSINT](https://rodolfolopez.es/descargas/Charla_Martina_Matarí_OSINT.pdf.zip)
+* Podéis descargar el material de la charla en el siguiente enlace: [Charla_HackMadrid%27_21OCT17_OSINT](https://rodolfolopez.es/descargas/Charla_Martina_Matari_OSINT.pdf.zip)
 
 * La segunda charla estuvo a cargo de Daniel Mery [@dmery](https://twitter.com/dmery) que nos esplicó de forma muy breve la historia de kali y sus usos , también puso a disposición de los asistentes varios Usb para que el que no pudiera tuviera la oportunidad de usar la distribución allí mismo.
 
